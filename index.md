@@ -7,7 +7,9 @@ My undergraduate studies focus on elastic mechanics, structural health monitorin
 I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program (fall 2021) at Carnegie Mellon University, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
 # Education
-- UM-SJTU JI, B.S. in Mechanical Engineering, Minor in Computer Science.
+## University of Michigan - Shanghai Jiao Tong University Joint Institute
+    - B.S. in Mechanical Engineering, Minor in Computer Science.
+    - GPA: 3.68/4.0 &emsp;
 
 
 # Publication
