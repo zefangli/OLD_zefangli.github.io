@@ -111,5 +111,5 @@ _Member_
 # Personal
 
 ### Seal Carving
-![生气远出](/assets/imgs/shengqiyuanchu.jpg)
+![生气远出](/assets/imgs/shengqiyuanchu.jpg =100x100)
 
