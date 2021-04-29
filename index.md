@@ -106,6 +106,7 @@ _Member_
 - Programming Languares: MATLAB, C/C++, R, LaTeX
 - CAD/FEA: SLIDWORKS, ANSYS
 - Understand: Python, AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
+- Language: Chinese (Native), English (Working proficiency), German (Elementary proficiency), Japanese (Elementary proficiency)
 
 
 # Personal
