@@ -113,8 +113,11 @@ _Member_
 ### Seal Carving: my mini gallery
 
 Shengqiyuanchu(生气远出)
+
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
+
 Shangmeirenzhichimu(伤美人之迟暮)
+
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/> shangmeirenzhichimu
 
