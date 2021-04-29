@@ -127,7 +127,7 @@ _Member_
 
 - Ukulele, 2021-
 
-### Seal Carving: my mini gallery, 2020-
+### Seal Carving: a mini-gallery, 2020-
 
 [SC10] Shengqiyuanchu(生气远出)
 
