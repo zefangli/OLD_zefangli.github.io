@@ -73,8 +73,6 @@ _Teaching Assistant_ for the following courses:
 - VM240, Spring 2020, Introduction to Dynamics and Vibrations
 - VX251, Spring 2019, Branding and Brand Management
 
-Obtained Basic Teaching Assistant Certificate.
-
 ### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017-01/2018
 
 _Volunteer Teacher_
@@ -98,39 +96,13 @@ _Member_
 - UM-SJTU JI Volunteer Spirit Scholarship, 03/2018
 
 
+### Certificates
 
+- Certificated LabVIEW Associate Developer, National Instruments.
+- Basic Teaching Assistant Certificate, CLT, UM-SJTU JI
 
+### Skills
 
+- MATLAB, C/C++, R, LaTeX, Python
+- SLIDWORKS, ANSYS, Abaqus
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zefangli/zefangli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
