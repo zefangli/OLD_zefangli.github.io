@@ -8,8 +8,9 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Education
 ## University of Michigan - Shanghai Jiao Tong University Joint Institute
-    - B.S. in Mechanical Engineering, Minor in Computer Science.
-    - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
+
+- B.S. in Mechanical Engineering, Minor in Computer Science.
+- GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
 
 
 # Publication
