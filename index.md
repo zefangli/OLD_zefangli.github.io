@@ -87,7 +87,7 @@ _Member_
 - Participated in the preparation of multiple events; responsible for writing articles and making WeChat pushes.
 
 
-### Awards
+# Awards
 
 - SJTU B-Class Scholarship for Studying Excellence 2019-2020 academic year, 11/2020
 - SJTU Academic Progress Scholarship, 2018-2019 academic year, 11/2019
@@ -96,13 +96,20 @@ _Member_
 - UM-SJTU JI Volunteer Spirit Scholarship, 03/2018
 
 
-### Certificates
+# Certificates
 
 - Certificated LabVIEW Associate Developer, National Instruments.
 - Basic Teaching Assistant Certificate, CLT, UM-SJTU JI
 
-### Skills
+# Skills
 
-- MATLAB, C/C++, R, LaTeX, Python
-- SLIDWORKS, ANSYS, Abaqus
+- Programming Languares: MATLAB, C/C++, R, LaTeX
+- CAD/FEA: SLIDWORKS, ANSYS
+- Understand: Python, AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
+
+
+# Personal
+
+### Seal Carving
+![生气远出](/assets/imgs/shengqiyuanchu.jpg)
 
