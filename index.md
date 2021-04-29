@@ -7,7 +7,7 @@ My undergraduate studies focus on elastic mechanics, structural health monitorin
 I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program at Carnegie Mellon University in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
 # Education
-### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
+### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017-08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
@@ -59,7 +59,14 @@ Development of Impact Monitoring System for Battery Packages
 
 # Activities
 
-## Center for Learning and Teaching, UM-SJTU JI, 02/2019 -
+### Center for Learning and Teaching, UM-SJTU JI
+
+Worked as Teaching Assistant for the following courses:
+
+    - VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
+    - VM240, Spring 2020, Introduction to Dynamics and Vibrations
+    - VX251, Spring 2019, Branding and Brand Management
+
 
 
 ### Markdown
