@@ -8,17 +8,21 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Education
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
+
 - B.S. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
 
 ### Sophia University, Tokyo, Japan, 01/2019
+
 - January Session in Japanese Studies
 
 ### McGill University, Montreal, Canada, 01/018 - 02/2018
+
 - Entrepreneurship
 
 
 # Publication
+
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch, _Mechanics Research Communications_ (2021), doi: [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695)
 
 
