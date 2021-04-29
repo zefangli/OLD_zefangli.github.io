@@ -32,7 +32,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 ## [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, Research Assistant, 05/2018-05/2021
 
-## Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, Research Assistant
+## Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, Research Assistant, 12/2019-01/2020
 
 
 ### Markdown
