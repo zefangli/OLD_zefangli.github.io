@@ -117,11 +117,15 @@ _Member_
 
 ### Sports
 
-- Swimming
-- Snowboarding
-- Bodybuilding
+- Swimming, 2005-
+- Snowboarding, 2009-
+- Bodybuilding, 2018-
 
-### Seal Carving: my mini gallery
+### Musical Instruments
+
+- Ukulele, 2021-
+
+### Seal Carving: my mini gallery, 2020-
 
 [SC10] Shengqiyuanchu(生气远出)
 
