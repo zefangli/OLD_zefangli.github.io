@@ -88,6 +88,21 @@ _Member_
 
 - Participated in the preparation of multiple events; responsible for writing articles and making WeChat pushes.
 
+
+### Awards
+
+- SJTU B-Class Scholarship for Studying Excellence 2019-2020 academic year, 11/2020
+- SJTU Academic Progress Scholarship, 2018-2019 academic year, 11/2019
+- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year, 11/2019
+- SJTU Excellent League Member, 05/2019
+- UM-SJTU JI Volunteer Spirit Scholarship, 03/2018
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
