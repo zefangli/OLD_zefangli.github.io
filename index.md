@@ -120,13 +120,13 @@ _Member_
 -
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
-- [SC09] Lyuyongxinyin(My cousin's personal stamp)
--
-<img width=128 height=128 src="/assets/imgs/lyuyongxinyin.jpg" title=""/>
-
-- [SC08] Lizefangyin(My personal stamp)
+- [SC09] Lizefangyin(My personal stamp)
 -
 <img width=128 height=128 src="/assets/imgs/lizefangyin.jpg" title=""/>
+
+- [SC08] Lyuyongxinyin(Another stamp)
+-
+<img width=128 height=128 src="/assets/imgs/lyuyongxinyin.jpg" title=""/>
 
 - [SC07] Yangzhuocunwudao(养拙存吾道)
 -
