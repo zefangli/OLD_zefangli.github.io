@@ -112,5 +112,5 @@ _Member_
 
 ### Seal Carving
 
-<img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg", title="生气远出"/>
+<img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出/>
 shengqiyuanchu
