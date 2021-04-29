@@ -113,7 +113,13 @@ _Member_
 - Language: Chinese (Native), English (Working proficiency), German (Elementary proficiency), Japanese (Elementary proficiency)
 
 
-# Personal
+# Hobbies
+
+### Sports
+
+- Swimming
+- Snowboarding
+- Bodybuilding
 
 ### Seal Carving: my mini gallery
 
