@@ -8,7 +8,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Contact
 
-- Email: [iamlzf@126.com](iamlzf@126.com)
+- Email: iamlzf@126.com
 - LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 
