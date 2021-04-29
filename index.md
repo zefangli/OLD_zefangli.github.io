@@ -111,6 +111,7 @@ _Member_
 # Personal
 
 ### Seal Carving
-First Header | Second Header
------------- | -------------
-![生气远出](/assets/imgs/shengqiyuanchu.jpg) |![生气远出](/assets/imgs/shengqiyuanchu.jpg)
+
+<img width=256 height=256 src="http://images2017.cnblogs.com/blog/1147566/201710/1147566-20171021214314318-1142270911.jpg" />
+
+![生气远出](/assets/imgs/shengqiyuanchu.jpg)
