@@ -74,6 +74,7 @@ Obtained Basic Teaching Assistant Certificate.
 - Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 5.
 - Acted as a member of the media group to record teaching activities and write WeChat articles.
 
+### Master’s Distinguished Lecture at Shanghai Jiao Tong University Shanghai, China, 10/2017-10/2018
 
 
 ### Markdown
