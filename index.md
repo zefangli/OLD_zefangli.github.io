@@ -112,6 +112,6 @@ _Member_
 
 ### Seal Carving
 
-<img width=256 height=256 src="http://images2017.cnblogs.com/blog/1147566/201710/1147566-20171021214314318-1142270911.jpg" />
+<img width=256 height=256 src="https://github.com/zefangli/zefangli.github.io/blob/main/assets/imgs/shengqiyuanchu.jpg" />
 
 ![生气远出](/assets/imgs/shengqiyuanchu.jpg)
