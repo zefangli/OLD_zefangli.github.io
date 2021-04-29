@@ -8,7 +8,9 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Contact
 
-iamlzf@126.com
+- Email: [iamlzf@126.com](iamlzf@126.com)
+- LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
+
 
 # Education
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017-08/2021
