@@ -112,46 +112,46 @@ _Member_
 
 ### Seal Carving: my mini gallery
 
-- [SC11] Shengqiyuanchu(生气远出)
--
+[SC10] Shengqiyuanchu(生气远出)
+
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
-- [SC10] Shangmeirenzhichimu(伤美人之迟暮)
--
+[SC9] Shangmeirenzhichimu(伤美人之迟暮)
+
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
-- [SC09] Lizefangyin(My personal stamp)
--
+[SC8] Lizefangyin(My personal stamp)
+
 <img width=128 height=128 src="/assets/imgs/lizefangyin.jpg" title=""/>
 
-- [SC08] Lyuyongxinyin(Another stamp)
--
+[SC7] Lyuyongxinyin(Another stamp)
+
 <img width=128 height=128 src="/assets/imgs/lyuyongxinyin.jpg" title=""/>
 
-- [SC07] Yangzhuocunwudao(养拙存吾道)
--
+[SC6] Yangzhuocunwudao(养拙存吾道)
+
 <img width=128 height=128 src="/assets/imgs/yangzhuocunwudao.jpg" title="养拙存吾道"/>
 
-- [SC06] Junziyoufu(君子有福)
--
+[SC5] Junziyoufu(君子有福)
+
 <img width=128 height=128 src="/assets/imgs/junziyoufu.jpg" title="君子有福"/>
 
-- [SC05] Changle(长乐)
--
+[SC4] Changle(长乐)
+
 <img width=128 height=128 src="/assets/imgs/changle.jpg" title="长乐"/>
 
-- [SC04] Xialibaren(下里巴人)
--
+[SC3] Xialibaren(下里巴人)
+
 <img width=128 height=128 src="/assets/imgs/xialibaren.jpg" title="下里巴人"/>
 
-- [SC03] Buwei(不为)
--
+[SC2] Buwei(不为)
+
 <img width=128 height=128 src="/assets/imgs/buwei.jpg" title="不为"/>
 
-- [SC02] Qianqiu(千秋)
--
+[SC1] Qianqiu(千秋)
+
 <img width=128 height=128 src="/assets/imgs/qianqiu.jpg" title="千秋"/>
 
-- [SC01] Hui(回)
--
+[SC0] Hui(回)
+
 <img width=128 height=128 src="/assets/imgs/hui.jpg" title="回"/>
