@@ -19,8 +19,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 
 # Publication
-J0. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch, _Mechanics Research Communications_ (2021), doi: [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695)
-
+- [J0] Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch, _Mechanics Research Communications_ (2021), doi: [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695)
 
 
 ### Markdown
