@@ -30,12 +30,16 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 ### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020-05/2021
 
+_Research Assistant_
+
 Elastic Solution of Composite Rings
 
 - Derived analytical solutions for different composite flywheel systems under multiple working conditions .
 - Assisted finite element analysis on the composite flywheel systems using Abaqus.
 
 ### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018-05/2021
+
+_Research Assistant_
 
 Design and Manufacturing of "Soft" Strain Gauge
 
@@ -53,6 +57,8 @@ Development of Impact Monitoring System for Battery Packages
 
 ### Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019-01/2020
 
+_Research Assistant_
+
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
 - Participated in establishing the communication between ROS and ROS2.
 
@@ -61,7 +67,7 @@ Development of Impact Monitoring System for Battery Packages
 
 ### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019-08/2020
 
-Worked as Teaching Assistant for the following courses:
+_Teaching Assistant_ for the following courses:
 
 - VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
 - VM240, Spring 2020, Introduction to Dynamics and Vibrations
@@ -71,11 +77,16 @@ Obtained Basic Teaching Assistant Certificate.
 
 ### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017-01/2018
 
+_Volunteer Teacher_
+
 - Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 5.
 - Acted as a member of the media group to record teaching activities and write WeChat articles.
 
 ### Master’s Distinguished Lecture at Shanghai Jiao Tong University Shanghai, China, 10/2017-10/2018
 
+_Member_
+
+- Participated in the preparation of multiple events; responsible for writing articles and making WeChat pushes.
 
 ### Markdown
 
