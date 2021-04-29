@@ -49,9 +49,10 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 # Development of Impact Monitoring System for Battery Packages
 - Applied machine learning methods to learn signal features for recognizing impact position and energy.
 
-
-
 ## Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019-01/2020
+
+- Assisted in modeling and simulation of the 7-DOF robotic arm.
+- Participated in establishing the communication between ROS and ROS2.
 
 
 ### Markdown
