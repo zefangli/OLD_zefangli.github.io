@@ -7,10 +7,16 @@ My undergraduate studies focus on elastic mechanics, structural health monitorin
 I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program at Carnegie Mellon University in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
 # Education
-### University of Michigan - Shanghai Jiao Tong University Joint Institute, 2017.09 - 2021.08
+### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
 - B.S. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
 
+### Sophia University, Tokyo, Japan, 01/2019
+- January Session in Japanese Studies
+
+### McGill University, Montreal, Canada, 01/018 - 02/2018
+- Entrepreneurship
+-
 
 # Publication
 
