@@ -59,13 +59,20 @@ Development of Impact Monitoring System for Battery Packages
 
 # Activities
 
-### Center for Learning and Teaching, UM-SJTU JI
+### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019-08/2020
 
 Worked as Teaching Assistant for the following courses:
 
 - VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
 - VM240, Spring 2020, Introduction to Dynamics and Vibrations
 - VX251, Spring 2019, Branding and Brand Management
+
+Obtained Basic Teaching Assistant Certificate.
+
+### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017-01/2018
+
+- Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 5.
+- Acted as a member of the media group to record teaching activities and write WeChat articles.
 
 
 
