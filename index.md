@@ -63,9 +63,9 @@ Development of Impact Monitoring System for Battery Packages
 
 Worked as Teaching Assistant for the following courses:
 
-    - VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
-    - VM240, Spring 2020, Introduction to Dynamics and Vibrations
-    - VX251, Spring 2019, Branding and Brand Management
+- VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
+- VM240, Spring 2020, Introduction to Dynamics and Vibrations
+- VX251, Spring 2019, Branding and Brand Management
 
 
 
