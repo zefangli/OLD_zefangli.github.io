@@ -1,11 +1,13 @@
 # Biography
 
-I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI)](https://www.ji.sjtu.edu.cn/), wiith a major in Mechanical Engineering and a minor in Computer Science.
+I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI), wiith a major in Mechanical Engineering and a minor in Computer Science.
 
 My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
+
 I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program (fall 2021) at Carnegie Mellon University, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
-## Education
+# Education
+- UM-SJTU JI, B.S. in Mechanical Engineering, Minor in Computer Science.
 
 
 # Publication
