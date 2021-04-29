@@ -113,12 +113,11 @@ _Member_
 ### Seal Carving: my mini gallery
 
 - [SC11] Shengqiyuanchu(生气远出)
-
+-
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
-
 - [SC10] Shangmeirenzhichimu(伤美人之迟暮)
-
+-
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
 - [SC09] Lyuyongxinyin(My cousin's personal stamp)
