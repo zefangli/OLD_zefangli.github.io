@@ -1,6 +1,6 @@
 ## my personal website
 
-this is my personal website under construction
+This is my personal website under construction
 
 ## Welcome to GitHub Pages
 
