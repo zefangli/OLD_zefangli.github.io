@@ -28,7 +28,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Research Experiences
 
-## [Active Materials and Intelligent Structure Laboratory]()
+## [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En)
 
 ## [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php)
 
