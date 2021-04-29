@@ -35,21 +35,23 @@ Elastic Solution of Composite Rings
 - Derived analytical solutions for different composite flywheel systems under multiple working conditions .
 - Assisted finite element analysis on the composite flywheel systems using Abaqus.
 
-## [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018-05/2021
+### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018-05/2021
 
-### Design and Manufacturing of "Soft" Strain Gauge
+Design and Manufacturing of "Soft" Strain Gauge
 
 - Designed and manufactured a strain gauge based on liquid metal and silicone by method of 3D printing and molding.
 - Conducted experiments to acquire dynamic strain of the strain gauge and processed its vibrational signal data.
 
-### Manufacturing and Testing of Piezoelectric Composite Materials
+Manufacturing and Testing of Piezoelectric Composite Materials
+
 - Assisted manufacturing of composite material with PVDF and PZT.
 - Assisted polarization of composite piezoelectric material.
 
-### Development of Impact Monitoring System for Battery Packages
+Development of Impact Monitoring System for Battery Packages
+
 - Applied machine learning methods to learn signal features for recognizing impact position and energy.
 
-## Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019-01/2020
+### Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019-01/2020
 
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
 - Participated in establishing the communication between ROS and ROS2.
