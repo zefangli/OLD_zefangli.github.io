@@ -1,6 +1,6 @@
 # Biography
 
-## Welcome to GitHub Pages
+## Education
 
 You can use the [editor on GitHub](https://github.com/zefangli/zefangli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
