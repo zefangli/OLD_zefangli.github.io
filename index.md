@@ -69,9 +69,9 @@ _Research Assistant_
 
 _Teaching Assistant_ for the following courses:
 
-- VM360, Summer 2020, Modeling, Analysis and Control of Dynamic Systems
-- VM240, Spring 2020, Introduction to Dynamics and Vibrations
-- VX251, Spring 2019, Branding and Brand Management
+- Summer 2020, VM360, Modeling, Analysis and Control of Dynamic Systems
+- Spring 2020, VM240, Introduction to Dynamics and Vibrations
+- Spring 2019, VX251, Branding and Brand Management
 
 ### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017-01/2018
 
