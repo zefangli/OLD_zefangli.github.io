@@ -28,9 +28,9 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Research Experiences
 
-## [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020-05/2021
+### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020-05/2021
 
-### Elastic Solution of Composite Rings
+Elastic Solution of Composite Rings
 
 - Derived analytical solutions for different composite flywheel systems under multiple working conditions .
 - Assisted finite element analysis on the composite flywheel systems using Abaqus.
@@ -53,6 +53,11 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
 - Participated in establishing the communication between ROS and ROS2.
+
+
+# Activities
+
+## Center for Learning and Teaching, UM-SJTU JI, 02/2019 -
 
 
 ### Markdown
