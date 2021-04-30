@@ -88,14 +88,14 @@ _Teaching Assistant_ for the following courses:
 
 Held weekly recitation classes and office hours, graded homework and exams, monitored exams.
 
-### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017 - 01/2018
+### Haikou Central Elementary School, Eryuan, Yunnan, China, 12/2017 - 01/2018
 
 _Volunteer Teacher_
 
 - Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 6.
 - Acted as a member of the media group to record teaching activities and write WeChat articles.
 
-### Master’s Distinguished Lecture at Shanghai Jiao Tong University Shanghai, China, 10/2017 - 10/2018
+### Master’s Distinguished Lecture, Shanghai Jiao Tong University, Shanghai, China, 10/2017 - 10/2018
 
 _Member_
 
