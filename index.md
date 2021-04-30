@@ -64,7 +64,7 @@ Manufacturing and Testing of Piezoelectric Composite Materials
 - Assisted manufacturing of composite material with PVDF and PZT.
 - Assisted polarization of composite piezoelectric material.
 
-Development of Impact Monitoring System for Battery Packages
+Development of Impact Monitoring System for Battery Packages (for [CATL](https://www.catl.com/en/))
 
 - Applied machine learning methods to learn signal features for recognizing impact position and energy.
 
@@ -102,11 +102,11 @@ _Member_
 # Others
 ### Awards
 
-- SJTU B-Class Scholarship for Studying Excellence 2019-2020 academic year, 11/2020
-- SJTU Academic Progress Scholarship, 2018-2019 academic year, 11/2019
-- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year, 11/2019
-- SJTU Excellent League Member, 05/2019
-- UM-SJTU JI Volunteer Spirit Scholarship, 03/2018
+- SJTU B-Class Scholarship for Studying Excellence, 2019-2020 academic year
+- SJTU Academic Progress Scholarship, 2018-2019 academic year
+- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year
+- SJTU Excellent League Member
+- UM-SJTU JI Volunteer Spirit Scholarship
 
 
 ### Certificates
@@ -119,7 +119,8 @@ _Member_
 - Programming Languares: MATLAB, C/C++, R, LaTeX
 - CAD/FEA: SLIDWORKS, ANSYS
 - Understand: Python, AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
-- Language: Chinese (Native), English (Working proficiency), German (Elementary proficiency), Japanese (Elementary proficiency)
+- Working proficiency: Chinese and English
+- Understand elementary German and Japanese
 
 
 # Hobbies
