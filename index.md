@@ -73,7 +73,7 @@ Development of Impact Monitoring System for Battery Packages
 _Research Assistant_
 
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
-- Participated in establishing the communication between ROS and ROS2.
+- Participated in establishing communication between ROS and ROS2.
 
 
 # Activities
