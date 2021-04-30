@@ -86,6 +86,8 @@ _Teaching Assistant_ for the following courses:
 - Spring 2020, Introduction to Dynamics and Vibrations
 - Spring 2019, Branding and Brand Management
 
+Held weekly recitation classes and office hours, graded homework and exams, monitored exams.
+
 ### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017 - 01/2018
 
 _Volunteer Teacher_
