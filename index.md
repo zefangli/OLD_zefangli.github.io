@@ -102,9 +102,9 @@ _Member_
 # Others
 ### Awards
 
-- SJTU B-Class Scholarship for Studying Excellence, 2019-2020 academic year
-- SJTU Academic Progress Scholarship, 2018-2019 academic year
-- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year
+- SJTU B-Class Scholarship for Studying Excellence, 2019-2020 academic year (10%)
+- SJTU Academic Progress Scholarship, 2018-2019 academic year (5%)
+- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year (10%)
 - SJTU Excellent League Member
 - UM-SJTU JI Volunteer Spirit Scholarship
 
