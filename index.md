@@ -1,10 +1,19 @@
+# Biography
+
 I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI), with a major in Mechanical Engineering and a minor in Computer Science.
 
 My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
 
 I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program at Carnegie Mellon University in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
-# Contact
+### Current Interests
+
+- Soft robotics
+- Mechatronics
+- Controls
+- Elastic mechanics
+
+### Contact
 
 - Email: iamlzf@126.com
 - LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
