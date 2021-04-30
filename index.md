@@ -118,7 +118,7 @@ _Member_
 
 ### Skills
 
-- Programming Languares: MATLAB, C/C++, R, LaTeX
+- Programming Languages: MATLAB, C/C++, R, LaTeX
 - CAD/FEA: SLIDWORKS, ANSYS
 - Understand: Python, AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
 - Working proficiency: Chinese and English
