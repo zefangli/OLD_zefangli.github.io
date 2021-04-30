@@ -1,5 +1,3 @@
-# Biography
-
 I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI), with a major in Mechanical Engineering and a minor in Computer Science.
 
 My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
@@ -13,7 +11,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 
 # Education
-### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017-08/2021
+### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
@@ -34,7 +32,7 @@ I am also an incoming student of Master of Science in Mechanical Engineering - R
 
 # Research Experiences
 
-### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020-05/2021
+### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020 - 05/2021
 
 _Research Assistant_
 
@@ -43,7 +41,7 @@ Elastic Solution of Composite Rings
 - Derived analytical solutions for different composite flywheel systems under multiple working conditions .
 - Assisted finite element analysis on the composite flywheel systems using Abaqus.
 
-### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018-05/2021
+### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018 - 05/2021
 
 _Research Assistant_
 
@@ -61,7 +59,7 @@ Development of Impact Monitoring System for Battery Packages
 
 - Applied machine learning methods to learn signal features for recognizing impact position and energy.
 
-### Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019-01/2020
+### Advanced Mechanism and Roboticized Equipment Lab, Tsinghua Uinversity, 12/2019 - 01/2020
 
 _Research Assistant_
 
@@ -71,7 +69,7 @@ _Research Assistant_
 
 # Activities
 
-### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019-08/2020
+### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
 
 _Teaching Assistant_ for the following courses:
 
@@ -79,14 +77,14 @@ _Teaching Assistant_ for the following courses:
 - Spring 2020, VM240, Introduction to Dynamics and Vibrations
 - Spring 2019, VX251, Branding and Brand Management
 
-### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017-01/2018
+### Haikou Central Elementary School Eryuan, Yunnan, China, 12/2017 - 01/2018
 
 _Volunteer Teacher_
 
 - Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 5.
 - Acted as a member of the media group to record teaching activities and write WeChat articles.
 
-### Master’s Distinguished Lecture at Shanghai Jiao Tong University Shanghai, China, 10/2017-10/2018
+### Master’s Distinguished Lecture at Shanghai Jiao Tong University Shanghai, China, 10/2017 - 10/2018
 
 _Member_
 
