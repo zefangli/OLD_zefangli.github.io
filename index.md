@@ -4,7 +4,7 @@ I am currently a senior student at [University of Michigan - Shanghai Jiao Tong 
 
 My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
 
-I am also an incoming student of Master of Science in Mechanical Engineering - Reaserch program at Carnegie Mellon University in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
+I am also an incoming student of [Master of Science in Mechanical Engineering - Reaserch](https://www.meche.engineering.cmu.edu/education/graduate-programs/masters-research.html) program at Carnegie Mellon University starting in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
 
 ### Current Interests
 
