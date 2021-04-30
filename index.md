@@ -131,7 +131,7 @@ _Member_
 - Snowboarding, 2009-
 - Bodybuilding, 2018-
 
-### Musical Instruments
+### Musical Instrument
 
 - Ukulele, 2021-
 
