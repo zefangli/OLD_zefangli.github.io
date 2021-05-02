@@ -125,7 +125,7 @@ _Member_
 - Understand elementary German and Japanese
 
 
-# Hobbies
+# Personal
 
 ### Sports
 
