@@ -1,4 +1,4 @@
-# Biography
+## Biography
 
 I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI), with a major in Mechanical Engineering and a minor in Computer Science.
 
@@ -19,7 +19,7 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 - LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 
-# Education
+## Education
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
@@ -34,12 +34,12 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 - Entrepreneurship
 
 
-# Publication
+## Publication
 
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch, _Mechanics Research Communications_ (2021), doi: [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695)
 
 
-# Research Experiences
+## Research Experiences
 
 ### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020 - 05/2021
 
@@ -76,7 +76,7 @@ _Research Assistant_
 - Participated in establishing communication between ROS and ROS2.
 
 
-# Activities
+## Activities
 
 ### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
 
@@ -125,7 +125,7 @@ _Member_
 - Understand elementary German and Japanese
 
 
-# Personal
+## Personal
 
 ### Sports
 
