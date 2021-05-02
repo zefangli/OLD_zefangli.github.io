@@ -18,8 +18,8 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 - Email: iamlzf@126.com
 - LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
 
-
 ## Education
+
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
@@ -33,11 +33,9 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 - Entrepreneurship
 
-
 ## Publication
 
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch, _Mechanics Research Communications_ (2021), doi: [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695)
-
 
 ## Research Experiences
 
@@ -75,7 +73,6 @@ _Research Assistant_
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
 - Participated in establishing communication between ROS and ROS2.
 
-
 ## Activities
 
 ### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
@@ -101,7 +98,8 @@ _Member_
 
 - Participated in the preparation of multiple events; responsible for writing articles and making WeChat pushes.
 
-# Others
+## Others
+
 ### Awards
 
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2020
