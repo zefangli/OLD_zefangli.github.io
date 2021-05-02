@@ -104,17 +104,17 @@ _Member_
 # Others
 ### Awards
 
-- SJTU B-Class Scholarship for Studying Excellence, 2019-2020 academic year (10%)
-- SJTU Academic Progress Scholarship, 2018-2019 academic year (5%)
-- SJTU B-Class Scholarship for Studying Excellence, 2018-2019 academic year (10%)
-- SJTU Excellent League Member
-- UM-SJTU JI Volunteer Spirit Scholarship
-
+- SJTU B-Class Scholarship for Studying Excellence (10%), 2020
+- SJTU Academic Progress Scholarship (5%), 2019
+- SJTU B-Class Scholarship for Studying Excellence (10%), 2019
+- SJTU Excellent League Member, 2019
+- UM-SJTU JI Volunteer Spirit Scholarship, 2018
+- First Prize in 30th Chinese Chemistry Olympiad (Preliminary contest), 2016
 
 ### Certificates
 
-- Certificated LabVIEW Associate Developer, National Instruments.
-- Basic Teaching Assistant Certificate, CLT, UM-SJTU JI
+- Certificated LabVIEW Associate Developer, National Instruments, 2019
+- Basic Teaching Assistant Certificate, CLT UM-SJTU JI, 2020
 
 ### Skills
 
