@@ -106,8 +106,8 @@ _Volunteer Teacher_
 
 ### Certificates
 
-- Certificated LabVIEW Associate Developer, National Instruments, 2019
 - Basic Teaching Assistant Certificate, UM-SJTU JI, 2020
+- Certificated LabVIEW Associate Developer, National Instruments, 2019
 
 ### Skills
 
