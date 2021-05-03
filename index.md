@@ -117,7 +117,6 @@ _Volunteer Teacher_
 - Working proficiency: Chinese and English
 - Understand elementary German and Japanese
 
-
 ## Personal
 
 ### Sports
