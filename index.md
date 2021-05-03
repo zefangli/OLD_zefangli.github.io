@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI), with a major in Mechanical Engineering and a minor in Computer Science.
+I am currently a senior student at [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with a major in Mechanical Engineering and a minor in Computer Science.
 
 My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
 
@@ -20,7 +20,7 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 ## Education
 
-### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China, 09/2017 - 08/2021
+### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
@@ -102,6 +102,7 @@ _Member_
 
 ### Awards
 
+- Distinguished Graduate of Shanghai (<5%), 2021
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2020
 - SJTU Academic Progress Scholarship (5%), 2019
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2019
@@ -112,7 +113,7 @@ _Member_
 ### Certificates
 
 - Certificated LabVIEW Associate Developer, National Instruments, 2019
-- Basic Teaching Assistant Certificate, CLT UM-SJTU JI, 2020
+- Basic Teaching Assistant Certificate, UM-SJTU JI, 2020
 
 ### Skills
 
