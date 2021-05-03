@@ -73,7 +73,7 @@ _Research Assistant_
 - Assisted in modeling and simulation of the 7-DOF robotic arm.
 - Participated in establishing communication between ROS and ROS2.
 
-## Activities
+## Teaching
 
 ### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
 
@@ -91,12 +91,6 @@ _Volunteer Teacher_
 
 - Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 6.
 - Acted as a member of the media group to record teaching activities and write WeChat articles.
-
-### Master’s Distinguished Lecture, Shanghai Jiao Tong University, Shanghai, China, 10/2017 - 10/2018
-
-_Member_
-
-- Participated in the preparation of multiple events; responsible for writing articles and making WeChat pushes.
 
 ## Others
 
