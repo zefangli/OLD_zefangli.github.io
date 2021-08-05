@@ -43,7 +43,6 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 _Research Assistant_
 
-Project
 Magnetically Controlled Soft Robot
 
 - Assisted design and fabrication of a magnetically controlled soft robot.
