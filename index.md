@@ -97,6 +97,7 @@ _Volunteer Teacher_
 ### Awards
 
 - Distinguished Graduate of Shanghai (<5%), 2021
+- Outstanding Outstanding Teaching Assistant Award of year 2020, 2021
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2020
 - SJTU Academic Progress Scholarship (5%), 2019
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2019
@@ -131,46 +132,46 @@ _Volunteer Teacher_
 
 ### Seal Carving: a mini-gallery, 2020-
 
-[SC10] Shengqiyuanchu(生气远出)
+[SC10] 生气远出(Shengqiyuanchu)
 
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
-[SC9] Shangmeirenzhichimu(伤美人之迟暮)
+[SC9] 伤美人之迟暮(Shangmeirenzhichimu)
 
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
-[SC8] Lizefangyin(My personal stamp)
+[SC8] My personal stamp
 
 <img width=128 height=128 src="/assets/imgs/lizefangyin.jpg" title=""/>
 
-[SC7] Lyuyongxinyin(Another stamp)
+[SC7] Another stamp
 
 <img width=128 height=128 src="/assets/imgs/lyuyongxinyin.jpg" title=""/>
 
-[SC6] Yangzhuocunwudao(养拙存吾道)
+[SC6] 养拙存吾道(Yangzhuocunwudao)
 
 <img width=128 height=128 src="/assets/imgs/yangzhuocunwudao.jpg" title="养拙存吾道"/>
 
-[SC5] Junziyoufu(君子有福)
+[SC5] 君子有福(Junziyoufu)
 
 <img width=128 height=128 src="/assets/imgs/junziyoufu.jpg" title="君子有福"/>
 
-[SC4] Changle(长乐)
+[SC4] 长乐(Changle)
 
 <img width=128 height=128 src="/assets/imgs/changle.jpg" title="长乐"/>
 
-[SC3] Xialibaren(下里巴人)
+[SC3] 下里巴人(Xialibaren)
 
 <img width=128 height=128 src="/assets/imgs/xialibaren.jpg" title="下里巴人"/>
 
-[SC2] Buwei(不为)
+[SC2] 不为(Buwei)
 
 <img width=128 height=128 src="/assets/imgs/buwei.jpg" title="不为"/>
 
-[SC1] Qianqiu(千秋)
+[SC1] 千秋(Qianqiu)
 
 <img width=128 height=128 src="/assets/imgs/qianqiu.jpg" title="千秋"/>
 
-[SC0] Hui(回)
+[SC0] 回(Hui)
 
 <img width=128 height=128 src="/assets/imgs/hui.jpg" title="回"/>
