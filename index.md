@@ -48,7 +48,6 @@ Magnetically Controlled Soft Robot
 
 - Assisted design and fabrication of a magnetically controlled soft robot.
 
-
 ### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020 - 05/2021
 
 _Research Assistant_
