@@ -8,7 +8,7 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 ### Current Interests
 
-- Soft robotics
+- Soft robotics (especially in sensing and actuation)
 - Mechatronics
 - Controls
 - Elastic mechanics
