@@ -39,6 +39,16 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 ## Research Experiences
 
+### [MEMS Precision Sensing and Control Laboratory], UM-SJTU JI, 06/2021 - 07/2021
+
+_Research Assistant_
+
+Project
+Magnetically Controlled Soft Robot
+
+- Assisted design and fabrication of a magnetically controlled soft robot.
+
+
 ### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020 - 05/2021
 
 _Research Assistant_
