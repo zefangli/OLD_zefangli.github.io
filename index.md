@@ -105,7 +105,7 @@ _Volunteer Teacher_
 ### Awards
 
 - Distinguished Graduate of Shanghai (<5%), 2021
-- Outstanding Outstanding Teaching Assistant Award of year 2020, 2021
+- 2020 Outstanding Outstanding Teaching Assistant Award, 2021
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2020
 - SJTU Academic Progress Scholarship (5%), 2019
 - SJTU B-Class Scholarship for Studying Excellence (10%), 2019
