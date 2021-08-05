@@ -39,7 +39,7 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 
 ## Research Experiences
 
-### [MEMS Precision Sensing and Control Laboratory], UM-SJTU JI, 06/2021 - 07/2021
+### MEMS Precision Sensing and Control Laboratory, UM-SJTU JI, 06/2021 - 07/2021
 
 _Research Assistant_
 
