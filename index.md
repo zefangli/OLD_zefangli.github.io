@@ -104,11 +104,11 @@ _Volunteer Teacher_
 
 ### Awards
 
-- Distinguished Graduate of Shanghai (<5%), 2021
-- 2020 Outstanding Outstanding Teaching Assistant Award, 2021
-- SJTU B-Class Scholarship for Studying Excellence (10%), 2020
-- SJTU Academic Progress Scholarship (5%), 2019
-- SJTU B-Class Scholarship for Studying Excellence (10%), 2019
+- Outstanding Graduate of Shanghai (<5%), 2021
+- 2020 Outstanding Teaching Assistant Award, 2021
+- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2020
+- SJTU Undergraduate Academic Progress Scholarship (5%), 2019
+- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2019
 - SJTU Excellent League Member, 2019
 - UM-SJTU JI Volunteer Spirit Scholarship, 2018
 - First Prize in 30th Chinese Chemistry Olympiad (Preliminary contest), 2016
