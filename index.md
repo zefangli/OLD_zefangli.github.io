@@ -23,7 +23,7 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
-- GPA: 3.68/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
+- GPA: 3.70/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
 
 ### Sophia University, Tokyo, Japan, 01/2019
 
