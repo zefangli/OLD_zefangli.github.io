@@ -21,7 +21,7 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 
 ### Carnegie Mellon University
 
--M.S. in Mechaincal Engineering
+- M.S. in Mechaincal Engineering
 
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
@@ -41,6 +41,10 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, "Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch", _Mechanics Research Communications_, Volume 113, 2021, 103695, ISSN 0093-6413, [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695).
 
 ## Research Experiences
+
+### Soft Machines Lab, Carnegie Mellon University, 09/2021 - present
+
+_Master Student Researcher_
 
 ### MEMS Precision Sensing and Control Laboratory, UM-SJTU JI, 06/2021 - 07/2021
 
