@@ -1,17 +1,16 @@
 ## Biography
 
-I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with a major in Mechanical Engineering and a minor in Computer Science.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Prof. Carmel Majidi in [Soft Machines Laboratory](http://sml.me.cmu.edu/), focusing on soft robotics and wearable technology.
 
-My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
-
-I am also an incoming student of [Master of Science in Mechanical Engineering - Reaserch](https://www.meche.engineering.cmu.edu/education/graduate-programs/masters-research.html) program at Carnegie Mellon University starting in fall 2021, keenly seeking research opportunities on soft robotics and/or wearable electronics.
+I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with a major in Mechanical Engineering and a minor in Computer Science. My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
 
 ### Current Interests
 
-- Soft robotics (especially in sensing and actuation)
-- Mechatronics
+- Soft sensor
+- Wearable technology
+- 3D printing
+- Energy harvesting
 - Controls
-- Elastic mechanics
 
 ### Contact
 
@@ -19,6 +18,10 @@ I am also an incoming student of [Master of Science in Mechanical Engineering - 
 - LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 ## Education
+
+### Carnegie Mellon University
+
+-M.S. in Mechaincal Engineering
 
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
