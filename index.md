@@ -1,16 +1,16 @@
 ## Biography
 
-I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Prof. Carmel Majidi in [Soft Machines Laboratory](http://sml.me.cmu.edu/), focusing on soft robotics and wearable technology.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Prof. Carmel Majidi in [Soft Machines Laboratory](http://sml.me.cmu.edu/), focusing on wearable technology and soft robotics.
 
 I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with a major in Mechanical Engineering and a minor in Computer Science. My undergraduate studies focus on elastic mechanics, structural health monitoring, and robotics.
 
 ### Current Interests
 
-- Soft sensor
+- Haptics & Cutaneous display
 - Wearable technology
+- Soft sensor
 - 3D printing
 - Energy harvesting
-- Controls
 
 ### Contact
 
@@ -21,7 +21,7 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 
 ### Carnegie Mellon University
 
-- M.S. in Mechaincal Engineering
+- M.S. in Mechaincal Engineering - Research
 
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
