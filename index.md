@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Prof. Carmel Majidi in [Soft Machines Lab](http://sml.me.cmu.edu/), focusing on haptics and soft robotics.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Dr. Carmel Majidi and Dr. Gina Olson at [Soft Machines Lab](http://sml.me.cmu.edu/), focusing on haptics and soft robotics.
 
 I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
