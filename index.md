@@ -13,7 +13,7 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 
 ### Contact
 
-- Email: iamlzf@126.com
+- [Email](mailto:zefangl@andrew.cmu.edu)
 - [LinkedIn](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 ## Education
