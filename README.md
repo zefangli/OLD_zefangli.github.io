@@ -1,6 +1,6 @@
 # My personal website
 
-This is my personal website currently under construction.
+This is my personal website updated on April 3, 2022.
 
 ### Markdown
 
