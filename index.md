@@ -126,9 +126,9 @@ _Volunteer Teacher_
 
 ### Skills
 
-- Programming Languages: MATLAB, C/C++, R, LaTeX
+- Programming Languages: Python, MATLAB, C/C++, R, LaTeX
 - CAD/FEA: SLIDWORKS, ANSYS
-- Understand: Python, AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
+- Understand: AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
 - Working proficiency: Chinese and English
 - Understand elementary German and Japanese
 
