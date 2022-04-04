@@ -6,16 +6,15 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 
 ### Current Interests
 
-- Haptics & Cutaneous display
+- Haptics
 - Wearable technology
 - Soft sensor
 - 3D printing
-- Energy harvesting
 
 ### Contact
 
 - Email: iamlzf@126.com
-- LinkedIn: [https://www.linkedin.com/in/zefang-li-b4613817b](https://www.linkedin.com/in/zefang-li-b4613817b)
+- [LinkedIn](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 ## Education
 
