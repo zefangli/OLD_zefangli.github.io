@@ -25,7 +25,7 @@ I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Ton
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
-- GPA: 3.70/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 2/39
+- GPA: 3.70/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 1/43
 
 ### Sophia University, Tokyo, Japan, 01/2019
 
