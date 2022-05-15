@@ -1,4 +1,5 @@
-## Biography
+## Biography 
+(last update: May 14, 2022)
 
 I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Dr. Carmel Majidi and Dr. Gina Olson at [Soft Machines Lab](http://sml.me.cmu.edu/), focusing on haptics and soft robotics.
 
