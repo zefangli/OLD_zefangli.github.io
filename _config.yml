@@ -2,6 +2,6 @@ title: Zefang Li 李泽方
 description: Master student at Carnegie Mellon University
 logo: /assets/imgs/ZefangLi_headshot2022.JPG
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: NrdyBhu1/atlas-jekyll-theme 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
