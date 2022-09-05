@@ -1,20 +1,22 @@
-## Biography 
-(last update: May 14, 2022)
+## Zefang Li
 
-I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work with Dr. Carmel Majidi and Dr. Gina Olson at [Soft Machines Lab](http://sml.me.cmu.edu/), focusing on haptics and soft robotics.
+### Biography
+(last update: Sept. 5, 2022)
 
-I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of Shanghai Jiao Tong University, with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for human-computer interaction and soft robotics.
+
+I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
 ### Current Interests
 
-- Haptics
-- Wearable technology
-- Soft sensor
+- Liquid crystal elastomer
+- Human-computer interaction & Wearable electronics
 - 3D printing
+- Soft sensor
 
 ### Contact
 
-- [Email](mailto:zefangl@andrew.cmu.edu)
+- Email: zefangl at andrew dot cmu dot edu [//]:[Email](mailto:zefangl@andrew.cmu.edu)
 - [LinkedIn](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 ## Education
@@ -26,7 +28,7 @@ I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Ton
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
 - B.S. in Mechanical Engineering, Minor in Computer Science.
-- GPA: 3.70/4.0 &emsp; Major GPA: 3.9/4.0 &emsp; Ranking: 1/43
+- GPA: 3.71/4.0 &emsp; Ranking: 1/43
 
 ### Sophia University, Tokyo, Japan, 01/2019
 
