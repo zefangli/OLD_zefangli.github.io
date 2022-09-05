@@ -43,7 +43,7 @@ _Simulation/Computation_
 
 - M.S. in Mechaincal Engineering - Research
 
-### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
+### Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
 - B.Eng. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.71/4.0 &emsp; Ranking: 1/43
@@ -80,7 +80,7 @@ Development of Liquid Crystal Elastomer Actuator (in progress)
 
 - Design LCE formulations and build actuators with self-healing property and low phase-changing temperature to achieve higher energy efficiency and safety for human-computer interaction.
 
-### MEMS Precision Sensing and Control Laboratory, UM-SJTU JI, 06/2021 - 07/2021
+### MEMS Precision Sensing and Control Laboratory, SJTU, 06/2021 - 07/2021
 
 _Research Assistant_
 
@@ -88,7 +88,7 @@ Magnetically Controlled Soft Robot
 
 - Assisted design and fabrication of a magnetically controlled soft robot.
 
-### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), UM-SJTU JI, 05/2020 - 05/2021
+### [Mechanics and Robostly Efficient Computation of Evolving Solids Laboratory](https://umji.sjtu.edu.cn/~yxshen/En/Index.php), SJTU, 05/2020 - 05/2021
 
 _Research Assistant_
 
@@ -97,7 +97,7 @@ Elastic Solution of Composite Rings
 - Derived analytical solutions for different composite flywheel systems under multiple working conditions .
 - Assisted finite element analysis on the composite flywheel systems using Abaqus.
 
-### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), UM-SJTU JI, 05/2018 - 05/2021
+### [Active Materials and Intelligent Structure Laboratory](https://amis.sjtu.edu.cn/En), SJTU, 05/2018 - 05/2021
 
 _Research Assistant_
 
@@ -142,7 +142,7 @@ _Teaching Assistant_ for the following courses:
 
 Held weekly recitation classes and office hours, graded homework and exams, monitored exams.
 
-### Haikou Central Elementary School, Eryuan, Yunnan, China, 12/2017 - 01/2018
+### Haikou Central Elementary School, Eryuan, China, 12/2017 - 01/2018
 
 _Volunteer Teacher_
 
