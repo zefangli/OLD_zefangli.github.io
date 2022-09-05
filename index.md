@@ -187,9 +187,11 @@ _Volunteer Teacher_
 ### Seal Carving: a mini-gallery, 2020-
 
 [SC10] 生气远出(Shengqiyuanchu)
+
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
 [SC9] 伤美人之迟暮(Shangmeirenzhichimu)
+
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
 [SC8] My personal stamp
