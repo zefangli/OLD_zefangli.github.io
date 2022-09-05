@@ -8,6 +8,23 @@ I am currently a master student majoring in Mechanical Engineering at Carnegie M
 
 I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
+### Area of Expertise
+
+_Experimental Research_
+
+- Experienced in synthesis of liquid crystal elastomer (LCE), and design of LCE material properties.
+- 3D printers: Hyrel, Voltera printers for direct ink writing, and Formlabs and Objet printers for general use.
+- Material characterization: ZEISS confocal microscope, GelSight probe, Instron test machine.
+- Experienced in fabrication: 3D printing, laser cutting, molding, planetary mixing, stencil printing.
+
+_Simulation/Computation_
+
+- CAD/CAM: SOLIDWORKS, EAGLE, AutoCAD.
+- Programming Languages: MATLAB, Python, C/C++, R, LaTeX, Java.
+- Machine Learning, Signal processing and filtering, Digital control.
+- Understand Adobe Premiere, Abaqus, Simulink, LabVIEW (Certificated LabVIEW Associate Developer, 11/2019)
+
+
 ### Current Interests
 
 - Liquid crystal elastomer
@@ -48,6 +65,20 @@ I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Ton
 ### [Soft Machines Lab](http://sml.me.cmu.edu/), Carnegie Mellon University, 09/2021 - present
 
 _Master Student Researcher_
+
+Soft Haptic Device and Cutaneous Display (manuscript in preparation)
+
+- Developed mechanisms that display wrinkles for haptic devices using liquid crystal elastomer (LCE).
+- Designed and tested LCE of different mechanical properties and different Ag-Ga-In-SIS inks for direct ink writing.
+- Fabricated and tested a soft 6-button braille for displaying lower case English characters by displaying wrinkles.
+
+Wirelessly Navigating Soft Robots in Pipes (manuscript in preparation)
+
+- Designed and fabricated Ag-Ga-In-SIS conductive heating elements for soft robots via direct ink writing.
+
+Development of Liquid Crystal Elastomer Actuator (in progress)
+
+- Design LCE formulations and build actuators with self-healing property and low phase-changing temperature to achieve higher energy efficiency and safety for human-computer interaction.
 
 ### MEMS Precision Sensing and Control Laboratory, UM-SJTU JI, 06/2021 - 07/2021
 
@@ -93,7 +124,13 @@ _Research Assistant_
 
 ## Teaching
 
-### [Center for Learning and Teaching](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
+### Carnegie Mellon University
+
+_Course Assistant_ for 24787 Machine Learning and Artificial Intelligence for Engineers
+
+Hold recitations and weekly office hours. Set up quiz questions. Grade homework and exams.
+
+### [UM-SJTU JI](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
 
 _Teaching Assistant_ for the following courses:
 
@@ -114,12 +151,12 @@ _Volunteer Teacher_
 
 ### Awards
 
+- MechE MS Summer Research Fellowship, 2022
 - Outstanding Graduate of Shanghai (<5%), 2021
 - 2020 Outstanding Teaching Assistant Award, 2021
 - SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2020
 - SJTU Undergraduate Academic Progress Scholarship (5%), 2019
 - SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2019
-- SJTU Excellent League Member, 2019
 - UM-SJTU JI Volunteer Spirit Scholarship, 2018
 - First Prize in 30th Chinese Chemistry Olympiad (Preliminary contest), 2016
 
@@ -128,11 +165,8 @@ _Volunteer Teacher_
 - Basic Teaching Assistant Certificate, UM-SJTU JI, 2020
 - Certificated LabVIEW Associate Developer, National Instruments, 2019
 
-### Skills
+### Languages
 
-- Programming Languages: Python, MATLAB, C/C++, R, LaTeX
-- CAD/FEA: SLIDWORKS, ANSYS
-- Understand: AutoCAD, Abaqus, Simulink and Microsoft Word, Excel and Power Point
 - Working proficiency: Chinese and English
 - Understand elementary German and Japanese
 
