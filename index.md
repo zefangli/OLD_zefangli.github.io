@@ -126,7 +126,9 @@ _Research Assistant_
 
 ### Carnegie Mellon University
 
-_Course Assistant_ for 24787 Machine Learning and Artificial Intelligence for Engineers
+_Course Assistant_ for:
+
+- Fall 2022, 24-787 Machine Learning and Artificial Intelligence for Engineers
 
 Hold recitations and weekly office hours. Set up quiz questions. Grade homework and exams.
 
@@ -144,8 +146,8 @@ Held weekly recitation classes and office hours, graded homework and exams, moni
 
 _Volunteer Teacher_
 
-- Designed interactive teaching plans and taught English and math for local pupils from grade 3 to grade 6.
-- Acted as a member of the media group to record teaching activities and write WeChat articles.
+- Designed interactive teaching plans and taught local pupils of grade 2 to 6 English and math.
+- Recorded teaching activities and wrote media articles.
 
 ## Others
 
@@ -185,11 +187,9 @@ _Volunteer Teacher_
 ### Seal Carving: a mini-gallery, 2020-
 
 [SC10] 生气远出(Shengqiyuanchu)
-
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
 [SC9] 伤美人之迟暮(Shangmeirenzhichimu)
-
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
 [SC8] My personal stamp
