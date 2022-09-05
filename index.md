@@ -46,7 +46,7 @@ _Simulation/Computation_
 
 ### University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, Shanghai, China, 09/2017 - 08/2021
 
-- B.S. in Mechanical Engineering, Minor in Computer Science.
+- B.Eng. in Mechanical Engineering, Minor in Computer Science.
 - GPA: 3.71/4.0 &emsp; Ranking: 1/43
 
 ### Sophia University, Tokyo, Japan, 01/2019
