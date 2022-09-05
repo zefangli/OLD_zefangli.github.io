@@ -64,7 +64,7 @@ _Simulation/Computation_
 
 ### [Soft Machines Lab](http://sml.me.cmu.edu/), Carnegie Mellon University, 09/2021 - present
 
-_Master Student Researcher_
+_MS Researcher_
 
 Soft Haptic Device and Cutaneous Display (manuscript in preparation)
 
