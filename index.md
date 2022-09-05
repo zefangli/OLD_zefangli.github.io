@@ -34,8 +34,7 @@ _Simulation/Computation_
 
 ### Contact
 
-- Email: zefangl at andrew dot cmu dot edu
-[comment]: [Email](mailto:zefangl@andrew.cmu.edu)
+- Email: [zefangl at andrew dot cmu dot edu](mailto:zefangl@andrew.cmu.edu)
 - [LinkedIn](https://www.linkedin.com/in/zefang-li-b4613817b)
 
 ## Education
