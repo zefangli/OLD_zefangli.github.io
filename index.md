@@ -76,7 +76,7 @@ Wirelessly Navigating Soft Robots in Pipes
 
 - Designed and fabricated Ag-Ga-In-SIS conductive heating elements for soft robots via direct ink writing.
 
-Development of Liquid Crystal Elastomer Actuator (in preparation)
+Development of Liquid Crystal Elastomer Actuator
 
 - Design LCE formulations and build actuators with low nematic-isotrpoic phase transition temperature to achieve higher energy efficiency and safety for human-computer interaction.
 
