@@ -66,13 +66,13 @@ _Simulation/Computation_
 
 _MS Researcher_
 
-Liquid Crystal Elastomer for Programmable Surface Texture Actuation (submitted)
+Liquid Crystal Elastomer for Programmable Surface Texture Actuation
 
 - Developed mechanisms that generate wrinkles under electrical stimuli using liquid crystal elastomer (LCE).
 - Designed and tested LCE of different mechanical properties, tested different Ag-Ga-In-SIS inks for direct ink writing.
 - Fabricated and tested a soft 6-button braille for displaying lower case English characters by displaying wrinkles.
 
-Wirelessly Navigating Soft Robots in Pipes (submitted)
+Wirelessly Navigating Soft Robots in Pipes
 
 - Designed and fabricated Ag-Ga-In-SIS conductive heating elements for soft robots via direct ink writing.
 
