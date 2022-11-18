@@ -66,10 +66,10 @@ _Simulation/Computation_
 
 _MS Researcher_
 
-Soft Haptic Device and Cutaneous Display (submitted)
+Liquid Crystal Elastomer for Programmable Surface Texture Actuation (submitted)
 
-- Developed mechanisms that display wrinkles for haptic devices using liquid crystal elastomer (LCE).
-- Designed and tested LCE of different mechanical properties and different Ag-Ga-In-SIS inks for direct ink writing.
+- Developed mechanisms that generate wrinkles under electrical stimuli using liquid crystal elastomer (LCE).
+- Designed and tested LCE of different mechanical properties, tested different Ag-Ga-In-SIS inks for direct ink writing.
 - Fabricated and tested a soft 6-button braille for displaying lower case English characters by displaying wrinkles.
 
 Wirelessly Navigating Soft Robots in Pipes (submitted)
@@ -78,7 +78,7 @@ Wirelessly Navigating Soft Robots in Pipes (submitted)
 
 Development of Liquid Crystal Elastomer Actuator (in preparation)
 
-- Design LCE formulations and build actuators with self-healing property and low phase-changing temperature to achieve higher energy efficiency and safety for human-computer interaction.
+- Design LCE formulations and build actuators with low nematic-isotrpoic phase transition temperature to achieve higher energy efficiency and safety for human-computer interaction.
 
 ### MEMS Precision Sensing and Control Laboratory, SJTU, 06/2021 - 07/2021
 
