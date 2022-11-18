@@ -2,9 +2,9 @@
 
 ## Biography
 
-(last update: Sept. 5, 2022; This is a FULL list of my experiences excluding papers in preparation.)
+(last update: Nov. 17, 2022; This is a FULL list of my experiences excluding papers in preparation.)
 
-I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for human-computer interaction and soft robotics.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
 
 I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
@@ -12,18 +12,17 @@ I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Ton
 
 _Experimental Research_
 
-- Experienced in synthesis of liquid crystal elastomer (LCE), and design of LCE material properties.
-- 3D printers: Hyrel, Voltera printers for direct ink writing, and Formlabs and Objet printers for general use.
-- Material characterization: ZEISS confocal microscope, GelSight probe, Instron test machine.
-- Experienced in fabrication: 3D printing, laser cutting, molding, planetary mixing, stencil printing.
+- Experienced in synthesis of liquid crystal elastomer (LCE), and design of LCE materials.
+- 3D printers: Hyrel (experienced), Voltera printers for direct ink writing, and Formlabs (experienced) and Objet printers for general use.
+- Material characterization: Differential scanning calorimetry, Dynamic mechanical analysis, ZEISS confocal microscope, GelSight probe, Instron test machine.
+- Experienced in fabrication: 3D printing, laser cutting, molding, planetary mixing, stencil printing and etc.
 
 _Simulation/Computation_
 
 - CAD/CAM: SOLIDWORKS, EAGLE, AutoCAD.
-- Programming Languages: MATLAB, Python, C/C++, R, LaTeX, Java.
+- Programming Languages: MATLAB, Python, C/C++, R, LaTeX.
 - Machine Learning, Signal processing and filtering, Digital control.
 - Understand Adobe Premiere, Abaqus, Simulink, LabVIEW (Certificated LabVIEW Associate Developer, 11/2019)
-
 
 ### Current Interests
 
@@ -56,9 +55,13 @@ _Simulation/Computation_
 
 - Entrepreneurship
 
-## Publication
+## Publications
+
+- [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electronically Controlled Liquid Crystal Elastomer for Programmable Surface Texture Actuation," submitted to Advanced Intelligent Systems.
 
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, "Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch", _Mechanics Research Communications_, Volume 113, 2021, 103695, ISSN 0093-6413, [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695).
+
+- [C0]. Yiwen Song, Mason Zadan, Kushaan Misra, **Zefang Li**, Jingxian Wang, Carmel Majidi, Swarun Kumar, "Navigating Soft Robots through Wireless Heating," submitted to ICRA 2023.
 
 ## Research Experiences
 
@@ -66,17 +69,17 @@ _Simulation/Computation_
 
 _MS Researcher_
 
-Soft Haptic Device and Cutaneous Display (manuscript in preparation)
+Soft Haptic Device and Cutaneous Display (submitted)
 
 - Developed mechanisms that display wrinkles for haptic devices using liquid crystal elastomer (LCE).
 - Designed and tested LCE of different mechanical properties and different Ag-Ga-In-SIS inks for direct ink writing.
 - Fabricated and tested a soft 6-button braille for displaying lower case English characters by displaying wrinkles.
 
-Wirelessly Navigating Soft Robots in Pipes (manuscript in preparation)
+Wirelessly Navigating Soft Robots in Pipes (submitted)
 
 - Designed and fabricated Ag-Ga-In-SIS conductive heating elements for soft robots via direct ink writing.
 
-Development of Liquid Crystal Elastomer Actuator (in progress)
+Development of Liquid Crystal Elastomer Actuator (in preparation)
 
 - Design LCE formulations and build actuators with self-healing property and low phase-changing temperature to achieve higher energy efficiency and safety for human-computer interaction.
 
@@ -184,13 +187,13 @@ _Volunteer Teacher_
 
 - Ukulele, 2021-
 
-### Seal Carving: a mini-gallery, 2020-
+### Seal Carving: a mini-gallery, 2020-2021
 
-[SC10] 生气远出(Shengqiyuanchu)
+[SC10] 生气远出 (Sheng qi yuan chu)
 
 <img width=128 height=128 src="/assets/imgs/shengqiyuanchu.jpg" title="生气远出"/>
 
-[SC9] 伤美人之迟暮(Shangmeirenzhichimu)
+[SC9] 伤美人之迟暮 (Shang mei ren zhi chi mu)
 
 <img width=128 height=128 src="/assets/imgs/shangmeirenzhichimu.jpg" title="伤美人之迟暮"/>
 
@@ -202,30 +205,30 @@ _Volunteer Teacher_
 
 <img width=128 height=128 src="/assets/imgs/lyuyongxinyin.jpg" title=""/>
 
-[SC6] 养拙存吾道(Yangzhuocunwudao)
+[SC6] 养拙存吾道 (Yang zhuo cun wu dao)
 
 <img width=128 height=128 src="/assets/imgs/yangzhuocunwudao.jpg" title="养拙存吾道"/>
 
-[SC5] 君子有福(Junziyoufu)
+[SC5] 君子有福 (Jun zi you fu)
 
 <img width=128 height=128 src="/assets/imgs/junziyoufu.jpg" title="君子有福"/>
 
-[SC4] 长乐(Changle)
+[SC4] 长乐 (Chang le)
 
 <img width=128 height=128 src="/assets/imgs/changle.jpg" title="长乐"/>
 
-[SC3] 下里巴人(Xialibaren)
+[SC3] 下里巴人 (Xia li ba ren)
 
 <img width=128 height=128 src="/assets/imgs/xialibaren.jpg" title="下里巴人"/>
 
-[SC2] 不为(Buwei)
+[SC2] 不为 (Bu wei)
 
 <img width=128 height=128 src="/assets/imgs/buwei.jpg" title="不为"/>
 
-[SC1] 千秋(Qianqiu)
+[SC1] 千秋 (Qian qiu)
 
 <img width=128 height=128 src="/assets/imgs/qianqiu.jpg" title="千秋"/>
 
-[SC0] 回(Hui)
+[SC0] 回 (Hui)
 
 <img width=128 height=128 src="/assets/imgs/hui.jpg" title="回"/>
