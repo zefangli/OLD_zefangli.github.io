@@ -1,7 +1,4 @@
 # Zefang Li
-
-## Biography
-
 (last update: Nov. 17, 2022; This is a FULL list of my experiences excluding papers in preparation.)
 
 I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
