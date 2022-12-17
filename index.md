@@ -1,5 +1,5 @@
 # Zefang Li
-(last update: Nov. 17, 2022; This is a FULL list of my experiences excluding papers in preparation.)
+(last update: Dec. 15, 2022; This is a FULL list of my experiences excluding papers in preparation.)
 
 I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
 
@@ -54,7 +54,7 @@ _Simulation/Computation_
 
 ## Publications
 
-- [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electronically Controlled Liquid Crystal Elastomer for Programmable Surface Texture Actuation," submitted to Advanced Intelligent Systems.
+- [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electronically Controlled Liquid Crystal Elastomer for Programmable Surface Texture Actuation," submitted to Advanced Intelligent Systems, under review.
 
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, "Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch", _Mechanics Research Communications_, Volume 113, 2021, 103695, ISSN 0093-6413, [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695).
 
