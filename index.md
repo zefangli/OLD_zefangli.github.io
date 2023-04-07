@@ -1,9 +1,11 @@
 # Zefang Li 李泽方
-(last update: Feb. 25, 2023; This is a FULL list of my experiences excluding papers in preparation.)
+(last update: April. 4, 2023; This is a FULL list of my experiences excluding papers in preparation.)
 
 I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
 
-I obtained my bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
+I will be joining Johns Hopkins University as a PhD student in Civil and Systems Engineering under the supervision of [Dr. Jochen Mueller](https://scholar.google.com/citations?user=yCnfRi4AAAAJ&hl=en&oi=ao).
+
+I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
 ### Area of Expertise
 
@@ -54,7 +56,7 @@ _Simulation/Computation_
 
 ## Publications
 
-- [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electrically Controlled Liquid Crystal Elastomer Surfaces for Dynamic Wrinkling," accepted by Advanced Intelligent Systems.
+- [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electrically Controlled Liquid Crystal Elastomer Surfaces for Dynamic Wrinkling," _Advanced Intelligent Systems_, [https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200402](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200402).
 
 - [J0]. Xufei Suo, Tingkang Wang, **Zefang Li**, Yongxing Shen, "Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch", _Mechanics Research Communications_, Volume 113, 2021, 103695, ISSN 0093-6413, [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695).
 
