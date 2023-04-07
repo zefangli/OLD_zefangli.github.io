@@ -1,7 +1,7 @@
 # Zefang Li 李泽方
-(last update: April. 4, 2023; This is a FULL list of my experiences excluding papers in preparation.)
+(last update: April. 6, 2023; This is a FULL list of my experiences excluding papers in preparation.)
 
-I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=pdcfdXcAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
+I am currently a master student majoring in Mechanical Engineering at Carnegie Mellon University. Here I work under [Dr. Carmel Majidi](https://scholar.google.com/citations?user=1LyndUsAAAAJ&hl=en&oi=ao) and [Dr. Gina Olson](https://scholar.google.com/citations?user=ybRBfeMAAAAJ&hl=en&oi=ao) at [Soft Machines Lab](http://sml.me.cmu.edu/), developing liquid crystal elastomer (LCE) actuators for soft robotics and human-computer interaction.
 
 I will be joining Johns Hopkins University as a PhD student in Civil and Systems Engineering under the supervision of [Dr. Jochen Mueller](https://scholar.google.com/citations?user=yCnfRi4AAAAJ&hl=en&oi=ao).
 
@@ -25,15 +25,14 @@ _Simulation/Computation_
 
 ### Current Interests
 
-- Liquid crystal elastomer actuators
-- Wearable/flexible electronics
 - 3D printing
-- Soft sensor
+- Liquid crystal elastomer
+- Wearable/flexible electronics
 
 ### Contact
 
 - Email: [zefangl at andrew dot cmu dot edu](mailto:zefangl@andrew.cmu.edu)
-- [LinkedIn](https://www.linkedin.com/in/zefang-li-b4613817b)
+- [LinkedIn](https://www.linkedin.com/in/zefang-l-b4613817b/)
 
 ## Education
 
